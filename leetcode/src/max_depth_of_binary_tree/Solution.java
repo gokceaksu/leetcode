@@ -63,5 +63,9 @@ public class Solution {
         }
         arr[arrayLength-1] = null;
     }
+    
+    public void deneme() {
+    	
+    }
 	    
 }
